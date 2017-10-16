@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Nightcity
 tagline:          'netrunn3r blog'
-description:      'Zbiór notatek i rozwiazania problemów z którymi się spotkałem'
+description:      "Zbiór notatek i case'ów z którymi się spotkałem"
 url:              https://netrunn3r.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
