@@ -5,9 +5,8 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+netrunn3r - security engineer, who is focused on penetration tests and network security
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Idea of this blog is put here description how to use security tools, how I configured some systems/services and miscelene notes.
+Generally speaking, this blog is a documentation how I did or permormed some thing, that I can quiclky refresh that knowleage.

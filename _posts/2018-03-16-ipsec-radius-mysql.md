@@ -1,5 +1,8 @@
 ---
 published: false
+title: IPsec VPN server with RADIUS and mysql on Debian 9
+layout: category
+category: network
 ---
 ## IPsec VPN server with RADIUS and mysql on Debian 9
 
